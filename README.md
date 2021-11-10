@@ -43,7 +43,7 @@ MARCO TEORICO
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa2.JPG)
 
-![imagen] (https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa3.jpg)
+![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa3.jpg)
 
 
 EXLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
