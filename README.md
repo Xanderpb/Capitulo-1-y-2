@@ -83,6 +83,34 @@ a=0.000003         b=330000           c=0.000000350
  13. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
 (a) 7.5 pA	(b) 3.3 GHz	(c) 280 nW 
 a=7.5 X 10^-12            b=3.3 X 10^9               c=280 X 10^-9
+29. sume las siguientes cantidades 
+
+1.- cual es la carga en coulombs de un núcleo de un átomo de cobre?
+
+3.- cuantos coulombs de carga poseen 50×10^25electrones?
+
+5.-determine el voltaje en cada uno de los siguientes casos?
+
+7.-cual es el voltaje de una batería de una batería que utiliza 800J de energía para mover 40C de carga a través de un resistor?
+
+9.-Si un resistor con una corriente de 2A a través del convierte 1000J de energía eléctrica en energía calorífica en 15s ¿Cuál es el voltaje a través del resistor?
+
+11.-seis decimos de coulombs pasan por un punto en 3s ¿Cuál es la corriente en amperes?
+
+13.-cuantos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5A?
+
+15.-determine la conductancia para cada uno de los siguientes valores de resistencia
+
+17.-enliste cuatro fuentes de voltaje comunes?
+
+19.-como difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+21.-determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas?
+
+23.-deternime las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia?
+
+
+
 
 
 
