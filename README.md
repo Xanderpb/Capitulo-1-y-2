@@ -40,7 +40,6 @@ Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métr
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 Notación científica
-
 1.	Exprese cada uno de los números siguientes en notación científica:
 (a) 3000	(b) 75,000	(c) 2,000,000a= 3 × 10^b3             b=  7.5 × 10^b4             c= 2 × 10^62.	Exprese cada uno de los números siguientes en notación científica:
 (a) 8400	(b) 99,000	(c) 0.2 * 106
