@@ -100,6 +100,10 @@ a=7.5 X 10^-12            b=3.3 X 10^9               c=280 X 10^-9
 
 5.-determine el voltaje en cada uno de los siguientes casos?
 
+a) 10 J/C =10v
+b) 5 J/2C=2.5v
+c) 100 J/25C=4v
+
 7.-cual es el voltaje de una batería de una batería que utiliza 800J de energía para mover 40C de carga a través de un resistor?
 
 9.-Si un resistor con una corriente de 2A a través del convierte 1000J de energía eléctrica en energía calorífica en 15s ¿Cuál es el voltaje a través del resistor?
@@ -112,9 +116,20 @@ a=7.5 X 10^-12            b=3.3 X 10^9               c=280 X 10^-9
 
 17.-enliste cuatro fuentes de voltaje comunes?
 
+1.	Fuente de potencia electrónica
+2.	Generador
+3.	Celdas solares
+4.	Batería
+
 19.-como difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
 21.-determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas?
+
+a) rojo, violeta, naranja, oro	
+27000 5%
+
+b) café, gris, rojo, plata
+1800 10%
 
 23.-deternime las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia?
 
