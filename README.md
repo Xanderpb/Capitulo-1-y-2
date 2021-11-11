@@ -44,6 +44,7 @@ MARCO TEORICO
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa2.JPG)
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa3.jpg)
+![imagen]_(https://lucid.app/documents/edit/e19ab3bb-263c-48dd-bde3-4ee618f345e5/0?callback=close&name=docs&callback_type=back&v=2461&s=595.4399999999999
 
 
 EXLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
@@ -122,16 +123,31 @@ c) 100 J/25C=4v
 4.	Batería
 
 19.-como difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
-
-21.-determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas?
-
+Por la resistivida que tiene, por el voltaje que continuo 
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas?
 a) rojo, violeta, naranja, oro	
-27000 5%
-
+27000Ω 5%
+o 27kΩ 5%
 b) café, gris, rojo, plata
-1800 10%
-
-23.-deternime las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia?
+1800Ω 10%
+o 1.8kΩ
+23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330Ω, 2.2Ωk, 56Ωk, 100Ωk, y 39Ωk
+330 Ω: naranja, naranja, café, dorado
+2.2 kΩ: rojo, rojo, rojo, dorado
+56 kΩ: verde, azul, tomate, dorado
+100 kΩ: cafe, negro, amarillo, dorado
+39 kΩ: naranja, blanco, naranja, dorado
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento. 
+(a)0.47 Ω amarillo, morado, plata, dorado 
+(b) 270 kΩ  rojo, morado,amarillo, dorado
+(c) 5.1 MΩ  verde, café, verde, dorado
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento. 
+(a) 14.7 kΩ cafe,amarillo, morado, rojo, cafe
+(b) 39.2 Ω tomate, blanco, rojo, dorado, cafe
+(c) 9.76 kΩ blanco, morado, azul, cafe, cafe
+29. ¿Cuál es la resistencia indicada por 4K7?
+La resistencia indicada es 4,7 kΩ, ya que está en rotulación alfanumérica en donde la letra K es mil, pero como está separando a los dígitos, también significa que existe una coma entre ellos.
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
 
 
