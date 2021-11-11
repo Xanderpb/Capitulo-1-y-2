@@ -42,6 +42,7 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 * Enumerar los prefijos métricos
 
 * Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
+* 
 
 ## MARCO TEORICO
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen/resumen%201...jpg)
@@ -225,6 +226,7 @@ o 1.8kΩ
 La resistencia indicada es 4,7 kΩ, ya que está en rotulación alfanumérica en donde la letra K es mil, pero como está separando a los dígitos, también significa que existe una coma entre ellos.
 
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
+
 ![ejc31](https://user-images.githubusercontent.com/93224166/141235121-575502a2-f01d-43e7-95ed-e656c5dd9848.png)
 
 Aquí podemos observar como el interruptor cambia a la posición dos lo cual permitirá que se prenda la lámpara 2.
@@ -241,10 +243,12 @@ Es este circuito porque vemos que los interruptores están conectados lo cual pr
 Podemos observar que la batería 1 está conectada al interruptor 1 el cual está conectado tanto al R1 como al R2, en cambio la bateria 2 está conectada al interruptor 2 el cual está empalmada al alambre que conecta tanto al R1 como el R2
 
 **37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
+
 ![ejc37](https://user-images.githubusercontent.com/93224166/141235122-390a673f-58d0-4e61-a33c-9810e5aaec9a.png)
 La forma de colocar el amperímetro es en serie, mientras del voltímetro es en paralelo.
 
 **39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
+
 ![ejc39](https://user-images.githubusercontent.com/93224166/141235644-69ec93fd-6a87-48e7-999c-9bc6fe5f702d.png)
 
 Si el interruptor está en la posición 1 V2 va ser igual al Vs ya que la corriente se está dirigiendo hacia la resistencia 2. Mientras si está en la posición 2 la corriente está yendo al R1 y el V1 va ser igual a Vs.
