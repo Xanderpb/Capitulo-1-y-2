@@ -150,6 +150,8 @@ a=7.5 X 10^-12            b=3.3 X 10^9               c=280 X 10^-9
 
 **1.- cual es la carga en coulombs de un núcleo de un átomo de cobre?**
 
+Q= 29/(6.25×10^18)=4.64×10^18 
+
 **3.- cuantos coulombs de carga poseen 50×10^25electrones?**
 
 **5.-determine el voltaje en cada uno de los siguientes casos?**
