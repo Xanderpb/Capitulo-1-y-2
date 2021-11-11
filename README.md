@@ -1,19 +1,25 @@
-Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carrera Mecatrónica
+# Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carrera Mecatrónica
 
-*Tarea 1
+### Tarea 1
 1.     Capítulo 1 y Capítulo 2
 2.     Realizar resúmenes del capítulo 1 y 2 con sus respectivos problemas.
 
-  Grupo N°: 4                                    Fundamentos de circuitos eléctricos  NRC:10149                 
- Integrantes:
+ **Grupo N°: 4**                                    
+ 
+ Fundamentos de circuitos eléctricos  
+ 
+ **NRC:** 10149                 
+ 
+ **Integrantes:**
 
 1.     Alexander Paul Ballesteros Jurado.
 2.      Jaime Joe Araque Guasgua
 3.      kevin alberto Morales
- Docente: Ing. Alulema Flores Darwin Omar
+
+Docente: Ing. Alulema Flores Darwin Omar
 
 
-Objetivo General
+## Objetivo General
 
 
 Analizar el estándar SI,utilizar notación científica para representar cantidades, utilizar notación de ingeniería y prefijos métricos para representar grandes y pequeñas cantidades
@@ -21,35 +27,37 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 
 
 
-Objetivos Específicos:
+## Objetivos Específicos:
 
-Especificar las unidades SI fundamentales 
+* Especificar las unidades SI fundamentales 
 
-Especificar las unidades complementarias
+* Especificar las unidades complementarias
 
-Explicar qué son las unidades derivadas
+* Explicar qué son las unidades derivadas
 
-Expresar cualquier número por medio de una potencia de diez 
+* Expresar cualquier número por medio de una potencia de diez 
 
- Realizar cálculos con potencias de diez
+* Realizar cálculos con potencias de diez
  
-Enumerar los prefijos métricos
+* Enumerar los prefijos métricos
 
-Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
+* Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
 
-MARCO TEORICO
+## MARCO TEORICO
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa1.jpg)
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa2.JPG)
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa3.jpg)
-![imagen]_(https://lucid.app/documents/edit/e19ab3bb-263c-48dd-bde3-4ee618f345e5/0?callback=close&name=docs&callback_type=back&v=2461&s=595.4399999999999
+![imagen](https://lucid.app/documents/edit/e19ab3bb-263c-48dd-bde3-4ee618f345e5/0?callback=close&name=docs&callback_type=back&v=2461&s=595.4399999999999)
 
 
-EXLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
-Notación científica
+
+## EXLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+
+**Notación científica**
 1.	Exprese cada uno de los números siguientes en notación científica:
 (a) 3000	(b) 75,000	(c) 2,000,000a= 3 × 10^b3             b=  7.5 × 10^b4             c= 2 × 10^62.	Exprese cada uno de los números siguientes en notación científica:
 (a) 8400	(b) 99,000	(c) 0.2 * 106
