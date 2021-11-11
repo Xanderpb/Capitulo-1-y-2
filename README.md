@@ -44,6 +44,9 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 * Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
 
 ## MARCO TEORICO
+![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen/resumen%201...jpg)
+![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen/resumen%201..jpg)
+![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen/resumen%201.jpg)
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa1.jpg)
 
@@ -52,7 +55,9 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa3.jpg)
 ![imagen](https://lucid.app/documents/edit/e19ab3bb-263c-48dd-bde3-4ee618f345e5/0?callback=close&name=docs&callback_type=back&v=2461&s=595.4399999999999)
 
-
+![imagen](
+![imagen](
+![imagen](
 
 
 ## EXLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
