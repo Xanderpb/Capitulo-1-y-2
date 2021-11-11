@@ -53,9 +53,14 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa2.JPG)
 
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen%202/mapa3.jpg)
-![imagen](https://lucid.app/documents/edit/e19ab3bb-263c-48dd-bde3-4ee618f345e5/0?callback=close&name=docs&callback_type=back&v=2461&s=595.4399999999999)
 
-![imagen](
+
+![resistores](https://user-images.githubusercontent.com/93224166/141233500-58c3f45d-b9c5-4e93-abb5-cfa7dd3ee19c.png)
+![imagen](https://www.hwlibre.com/wp-content/uploads/2020/10/Resistor_color_code-1005x1024.png.webp)
+![componentes2](https://user-images.githubusercontent.com/93224166/141233501-3e8c7db9-1f15-48c3-83e9-9a98627133b1.png)
+![mediciones3](https://user-images.githubusercontent.com/93224166/141233497-58bf2ce3-0873-46d5-b168-4b72ce690ed0.png)
+
+
 ![imagen](
 ![imagen](
 
