@@ -132,6 +132,8 @@ b) café, gris, rojo, plata
 1800Ω 10%
 o 1.8kΩ
 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330Ω, 2.2Ωk, 56Ωk, 100Ωk, y 39Ωk
+24
+25. 
 330 Ω: naranja, naranja, café, dorado
 2.2 kΩ: rojo, rojo, rojo, dorado
 56 kΩ: verde, azul, tomate, dorado
