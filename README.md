@@ -147,12 +147,18 @@ a=0.000003         b=330000           c=0.000000350
 a=7.5 X 10^-12            b=3.3 X 10^9               c=280 X 10^-9
 
 **29. sume las siguientes cantidades** 
+* a) 50mA+680 uA                               
+* 680 uA=6.8mA
+* 50mA+6.8 mA=50,68mA
+
 
 **1.- cual es la carga en coulombs de un núcleo de un átomo de cobre?**
 
 Q= 29/(6.25×10^18)=4.64×10^18 
 
 **3.- cuantos coulombs de carga poseen 50×10^25electrones?**
+* Q = 50×10^31/6.25×10^18 = 8×10^39 
+
 
 **5.-determine el voltaje en cada uno de los siguientes casos?**
 
@@ -161,14 +167,40 @@ Q= 29/(6.25×10^18)=4.64×10^18
 * c) 100 J/25C=4v
 
 **7.-cual es el voltaje de una batería de una batería que utiliza 800J de energía para mover 40C de carga a través de un resistor?**
+* V = W/Q    
+* V = 800J/10C = 20v
+
 
 **9.-Si un resistor con una corriente de 2A a través del convierte 1000J de energía eléctrica en energía calorífica en 15s ¿Cuál es el voltaje a través del resistor?**
+* Q = t/I    
+* Q = 15/2 = 7.5 C       
+* V = W/Q         
+* V = 1000J/7.5C = 133.33 v  
 
 **11.-seis decimos de coulombs pasan por un punto en 3s ¿Cuál es la corriente en amperes?**
+* I = Q/t   
+* I = 0.6/3 = 0.2A
+
 
 **13.-cuantos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5A?**
+* Q = t/I     
+* Q = 0.1/1.5 = 0.066C
+
 
 **15.-determine la conductancia para cada uno de los siguientes valores de resistencia**
+* a) 5Ω
+* G = 1/R          
+* G = 1/5 =  0.2 S
+
+* b) 25Ω
+* G = 1/R          
+* G = 1/25 = 0.04 S
+
+* c) 100Ω
+* G = 1/R         
+* G = 1/100 = 0.01 S
+
+
 
 **17.-enliste cuatro fuentes de voltaje comunes?**
 
