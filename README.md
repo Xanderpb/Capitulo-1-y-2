@@ -135,11 +135,10 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 
 **12.	Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-* (a) 3 * 10-6 F
-* (b) 3.3 * 106 Æ
-* (c)  350 * 10-9 A
+* (a) 3 * 10-6 F=0.000003
+* (b) 3.3 * 106 Æ =330000     
+* (c)  350 * 10-9 A=0.000000350
 
-a=0.000003         b=330000           c=0.000000350
 
 **13. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
 
@@ -189,16 +188,16 @@ Q= 29/(6.25×10^18)=4.64×10^18
 
 **15.-determine la conductancia para cada uno de los siguientes valores de resistencia**
 * a) 5Ω
-* G = 1/R          
-* G = 1/5 =  0.2 S
+G = 1/R          
+G = 1/5 =  0.2 S
 
 * b) 25Ω
-* G = 1/R          
-* G = 1/25 = 0.04 S
+G = 1/R          
+G = 1/25 = 0.04 S
 
 * c) 100Ω
-* G = 1/R         
-* G = 1/100 = 0.01 S
+G = 1/R         
+G = 1/100 = 0.01 S
 
 
 
