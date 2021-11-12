@@ -42,7 +42,8 @@ Analizar el estándar SI,utilizar notación científica para representar cantida
 * Enumerar los prefijos métricos
 
 * Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
-* 
+* Conocer los principales unidades de medida de los circuitos elctricos
+* Armar circuitos electricos
 
 ## MARCO TEORICO
 ![imagen](https://github.com/Xanderpb/Capitulo-1-y-2/blob/main/resumen/resumen%201...jpg)
