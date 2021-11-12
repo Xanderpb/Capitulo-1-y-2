@@ -294,5 +294,9 @@ En cambio la resistencia para medirla debe ser retirada del circuito o debe esta
 * las resistencias pueden ser variables o fijas
 * Los componentes de proteccion como fusibles o breker pueden ayudarnos al momento que el amperaje suba de golpe, evitando que nuestros equipos electronicos se dañen.
 
+## Video
 
+https://www.youtube.com/watch?v=Em0tz5pwK0w
+
+## Bibliografia
 
