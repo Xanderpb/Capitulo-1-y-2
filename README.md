@@ -330,4 +330,10 @@ En cambio la resistencia para medirla debe ser retirada del circuito o debe esta
 https://www.youtube.com/watch?v=Em0tz5pwK0w
 
 ## Bibliografia
+FLOYD, THOMAS L.
+Principios de circuitos eléctricos. Octava edición
+PEARSON EDUCACIÓN, México, 2007
+ISBN: 978-970-26-0967-4 Área: Ingeniería
+Formato: 21 × 27 cm Páginas: 968
+
 
